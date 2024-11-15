@@ -32,7 +32,7 @@ I'm a Fullstack Developer from London, UK. I got tricked into programming with a
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height="30" alt="blazor logo"  />
+  <img src="https://mgck.ink/uploads/aspnet.svg" height="30" alt="asp.net logo"  />
   <img width="12" />
 </div>
 
